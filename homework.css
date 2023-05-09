@@ -10,3 +10,18 @@
   color: #03a9f4;
   cursor: pointer;
 }
+
+.homework-img {
+  position: absolute;
+  width: 420px;
+  height: 280px;
+  left: 148px;
+  top: 182px;
+  border: red solid 1px;
+  background: url(1.png);
+  margin: 182 148 1774;
+}
+
+.homework-img:hover {
+  border: #03a9f4 solid 2px;
+}
