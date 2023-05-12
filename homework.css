@@ -18,9 +18,69 @@
   left: 148px;
   top: 182px;
   background: url(1.png);
-  margin: 182 148 1774;
 }
 
 .homework-img:hover {
   border: #03a9f4 solid 2px;
+}
+
+.Lifestyle {
+  position: absolute;
+  width: 64px;
+  height: 16px;
+  left: 148px;
+  top: 524px;
+
+  font-family: "Ubuntu";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 16px;
+
+  color: #b4ad9e;
+}
+
+.text {
+  position: absolute;
+  width: 408px;
+  height: 40px;
+  left: 148px;
+  top: 572px;
+
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 40px;
+
+  color: #626262;
+}
+
+.lorem {
+  position: absolute;
+  width: 420px;
+  height: 76px;
+  left: 148px;
+  top: 652px;
+
+  font-family: "Playfair Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 19px;
+
+  color: #626262;
+}
+
+.lorem:hover {
+  text-decoration: underline;
+  text-decoration-color: blue;
+}
+.text:hover {
+  text-decoration: underline;
+  text-decoration-color: blue;
+}
+.Lifestyle:hover {
+  text-decoration: underline;
+  text-decoration-color: blue;
 }
